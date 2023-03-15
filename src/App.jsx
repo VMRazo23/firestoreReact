@@ -37,6 +37,7 @@ function App() {
            }
            setNombre('');
            setPhone('');
+           setCiudad('');
         }
     }
 
